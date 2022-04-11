@@ -1,0 +1,21 @@
+{
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "purple"
+    },
+    {
+      "trait_type": "background",
+      "value": "dots"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "generation",
+      "value": 1
+    }
+  ],
+  "description": "Just a skull from space. Seems to be from an ape.",
+  "external_url": "https://example.com/?token_id=1",
+  "image": "ipfs://bafybeih3ykpa42eipgtzcrfkeo5nvazcdqhj3oh3ztju44tcoipzsdaauy/images/7.png",
+  "name": "Purple Dot"
+}

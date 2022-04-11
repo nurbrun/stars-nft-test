@@ -1,16 +1,12 @@
 {
   "attributes": [
     {
-      "trait_type": "hair",
-      "value": "long"
+      "trait_type": "body",
+      "value": "green"
     },
     {
-      "trait_type": "personality",
-      "value": "cool"
-    },
-    {
-      "trait_type": "shirt_color",
-      "value": "purple"
+      "trait_type": "background",
+      "value": "dots"
     },
     {
       "display_type": "number",
@@ -18,8 +14,8 @@
       "value": 1
     }
   ],
-  "description": "Just some guy that likes to code.",
-  "external_url": "https://example.com/?token_id=4",
-  "image": "ipfs://bafybeih3ykpa42eipgtzcrfkeo5nvazcdqhj3oh3ztju44tcoipzsdaauy/images/2.png",
-  "name": "Jorge"
+  "description": "Just a skull from space. Seems to be from an ape.",
+  "external_url": "https://example.com/?token_id=1",
+  "image": "ipfs://bafybeih3ykpa42eipgtzcrfkeo5nvazcdqhj3oh3ztju44tcoipzsdaauy/images/4.png",
+  "name": "Green Dot"
 }
